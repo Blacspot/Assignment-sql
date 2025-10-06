@@ -1,3 +1,3 @@
-#Car Rental
+# Car Rental
 
-![Car Rental] (./images/Screenshot 2025-10-06 074154.png)
+![Car Rental](./images/Screenshot%202025-10-06%20074154.png)
